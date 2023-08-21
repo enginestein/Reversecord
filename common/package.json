@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "invariant": "2.2.4",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "mkdirp": "^0.5.1",
     "request": "2.88.0",
     "rimraf": "^2.6.3",
