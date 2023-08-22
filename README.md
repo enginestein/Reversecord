@@ -1,6 +1,6 @@
 # Reversecord
 
-Here is a repository containing reverse engineered discord web app source code. 
+Here is a repository containing reverse engineered discord app source code. 
 
 # Documentation
 
