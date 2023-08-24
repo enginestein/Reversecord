@@ -30,3 +30,13 @@ Below are the helping folders of the discord application:
 - Spellcheck
 - Utils
 - Voice
+
+# Info
+
+The entry point of the app is `index.js` which is in `app` folder. After installing all the modules you can run `index.js`:
+
+```bash
+node index.js
+```
+
+There are no `run` scripts available, but I am sure that it works with `index.js` because in the `package.json` the entry point is `index.js`
