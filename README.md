@@ -31,7 +31,7 @@ Below are the helping folders of the discord application:
 - Utils
 - Voice
 
-# Info
+# Usage
 
 The entry point of the app is `index.js` which is in `app` folder. After installing all the modules you can run `index.js`:
 
